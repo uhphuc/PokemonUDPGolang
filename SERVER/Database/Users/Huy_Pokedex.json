@@ -1,0 +1,428 @@
+[
+  {
+    "ID": "#0001",
+    "Name": "Bulbasaur",
+    "Level": 1,
+    "Exp": 0,
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "URL": "/pokedex/bulbasaur",
+    "Poke-Information": {
+      "HP": 45,
+      "ATK": 49,
+      "DEF": 49,
+      "Sp.Atk": 65,
+      "Sp.Def": 65,
+      "Speed": 45,
+      "Type-Defenses": {
+        "Normal": 1,
+        "Fire": 2,
+        "Water": 0.5,
+        "Electric": 0.5,
+        "Grass": 0.25,
+        "Ice": 2,
+        "Fighting": 0.5,
+        "Poison": 1,
+        "Ground": 1,
+        "Flying": 2,
+        "Psychic": 2,
+        "Bug": 1,
+        "Rock": 1,
+        "Ghost": 1,
+        "Dragon": 1,
+        "Dark": 1,
+        "Steel": 1,
+        "Fairy": 0.5
+      }
+    }
+  },
+  {
+    "ID": "#0691",
+    "Name": "Dragalge",
+    "Level": 1,
+    "Exp": 0,
+    "types": [
+      "Poison",
+      "Dragon"
+    ],
+    "URL": "/pokedex/dragalge",
+    "Poke-Information": {
+      "HP": 65,
+      "ATK": 75,
+      "DEF": 90,
+      "Sp.Atk": 97,
+      "Sp.Def": 123,
+      "Speed": 44,
+      "Type-Defenses": {
+        "Normal": 1,
+        "Fire": 0.5,
+        "Water": 0.5,
+        "Electric": 0.5,
+        "Grass": 0.25,
+        "Ice": 2,
+        "Fighting": 0.5,
+        "Poison": 0.5,
+        "Ground": 2,
+        "Flying": 1,
+        "Psychic": 2,
+        "Bug": 0.5,
+        "Rock": 1,
+        "Ghost": 1,
+        "Dragon": 2,
+        "Dark": 1,
+        "Steel": 1,
+        "Fairy": 1
+      }
+    }
+  },
+  {
+    "ID": "#0549",
+    "Name": "Lilligant",
+    "Level": 1,
+    "Exp": 0,
+    "types": [
+      "Grass"
+    ],
+    "URL": "/pokedex/lilligant",
+    "Poke-Information": {
+      "HP": 70,
+      "ATK": 105,
+      "DEF": 75,
+      "Sp.Atk": 50,
+      "Sp.Def": 75,
+      "Speed": 105,
+      "Type-Defenses": {
+        "Normal": 1,
+        "Fire": 2,
+        "Water": 0.5,
+        "Electric": 0.5,
+        "Grass": 0.5,
+        "Ice": 2,
+        "Fighting": 1,
+        "Poison": 2,
+        "Ground": 0.5,
+        "Flying": 4,
+        "Psychic": 2,
+        "Bug": 1,
+        "Rock": 0.5,
+        "Ghost": 1,
+        "Dragon": 1,
+        "Dark": 0.5,
+        "Steel": 1,
+        "Fairy": 2
+      }
+    }
+  },
+  {
+    "ID": "#0690",
+    "Name": "Skrelp",
+    "Level": 1,
+    "Exp": 0,
+    "types": [
+      "Poison",
+      "Water"
+    ],
+    "URL": "/pokedex/skrelp",
+    "Poke-Information": {
+      "HP": 50,
+      "ATK": 60,
+      "DEF": 60,
+      "Sp.Atk": 60,
+      "Sp.Def": 60,
+      "Speed": 30,
+      "Type-Defenses": {
+        "Normal": 1,
+        "Fire": 0.5,
+        "Water": 0.5,
+        "Electric": 2,
+        "Grass": 1,
+        "Ice": 0.5,
+        "Fighting": 0.5,
+        "Poison": 0.5,
+        "Ground": 2,
+        "Flying": 1,
+        "Psychic": 2,
+        "Bug": 0.5,
+        "Rock": 1,
+        "Ghost": 1,
+        "Dragon": 1,
+        "Dark": 1,
+        "Steel": 0.5,
+        "Fairy": 0.5
+      }
+    }
+  },
+  {
+    "ID": "#0121",
+    "Name": "Starmie",
+    "Level": 1,
+    "Exp": 0,
+    "types": [
+      "Water",
+      "Psychic"
+    ],
+    "URL": "/pokedex/starmie",
+    "Poke-Information": {
+      "HP": 60,
+      "ATK": 75,
+      "DEF": 85,
+      "Sp.Atk": 100,
+      "Sp.Def": 85,
+      "Speed": 115,
+      "Type-Defenses": {
+        "Normal": 1,
+        "Fire": 0.5,
+        "Water": 0.5,
+        "Electric": 2,
+        "Grass": 2,
+        "Ice": 0.5,
+        "Fighting": 0.5,
+        "Poison": 1,
+        "Ground": 1,
+        "Flying": 1,
+        "Psychic": 0.5,
+        "Bug": 2,
+        "Rock": 1,
+        "Ghost": 2,
+        "Dragon": 1,
+        "Dark": 2,
+        "Steel": 0.5,
+        "Fairy": 1
+      }
+    }
+  },
+  {
+    "ID": "#0998",
+    "Name": "Baxcalibur",
+    "Level": 1,
+    "Exp": 0,
+    "types": [
+      "Dragon",
+      "Ice"
+    ],
+    "URL": "/pokedex/baxcalibur",
+    "Poke-Information": {
+      "HP": 115,
+      "ATK": 145,
+      "DEF": 92,
+      "Sp.Atk": 75,
+      "Sp.Def": 86,
+      "Speed": 87,
+      "Type-Defenses": {
+        "Normal": 1,
+        "Fire": 1,
+        "Water": 0.5,
+        "Electric": 0.5,
+        "Grass": 0.5,
+        "Ice": 1,
+        "Fighting": 2,
+        "Poison": 1,
+        "Ground": 1,
+        "Flying": 1,
+        "Psychic": 1,
+        "Bug": 1,
+        "Rock": 2,
+        "Ghost": 1,
+        "Dragon": 2,
+        "Dark": 1,
+        "Steel": 2,
+        "Fairy": 2
+      }
+    }
+  },
+  {
+    "ID": "#0253",
+    "Name": "Grovyle",
+    "Level": 1,
+    "Exp": 0,
+    "types": [
+      "Grass"
+    ],
+    "URL": "/pokedex/grovyle",
+    "Poke-Information": {
+      "HP": 50,
+      "ATK": 65,
+      "DEF": 45,
+      "Sp.Atk": 85,
+      "Sp.Def": 65,
+      "Speed": 95,
+      "Type-Defenses": {
+        "Normal": 1,
+        "Fire": 2,
+        "Water": 0.5,
+        "Electric": 0.5,
+        "Grass": 0.5,
+        "Ice": 2,
+        "Fighting": 1,
+        "Poison": 2,
+        "Ground": 0.5,
+        "Flying": 2,
+        "Psychic": 1,
+        "Bug": 2,
+        "Rock": 1,
+        "Ghost": 1,
+        "Dragon": 1,
+        "Dark": 1,
+        "Steel": 1,
+        "Fairy": 1
+      }
+    }
+  },
+  {
+    "ID": "#0194",
+    "Name": "Wooper",
+    "Level": 1,
+    "Exp": 0,
+    "types": [
+      "Water",
+      "Ground"
+    ],
+    "URL": "/pokedex/wooper",
+    "Poke-Information": {
+      "HP": 55,
+      "ATK": 45,
+      "DEF": 45,
+      "Sp.Atk": 25,
+      "Sp.Def": 25,
+      "Speed": 15,
+      "Type-Defenses": {
+        "Normal": 1,
+        "Fire": 1,
+        "Water": 2,
+        "Electric": 0,
+        "Grass": 1,
+        "Ice": 2,
+        "Fighting": 0.5,
+        "Poison": 0.25,
+        "Ground": 2,
+        "Flying": 1,
+        "Psychic": 2,
+        "Bug": 0.5,
+        "Rock": 0.5,
+        "Ghost": 1,
+        "Dragon": 1,
+        "Dark": 1,
+        "Steel": 1,
+        "Fairy": 0.5
+      }
+    }
+  },
+  {
+    "ID": "#0135",
+    "Name": "Jolteon",
+    "Level": 1,
+    "Exp": 0,
+    "types": [
+      "Electric"
+    ],
+    "URL": "/pokedex/jolteon",
+    "Poke-Information": {
+      "HP": 65,
+      "ATK": 65,
+      "DEF": 60,
+      "Sp.Atk": 110,
+      "Sp.Def": 95,
+      "Speed": 130,
+      "Type-Defenses": {
+        "Normal": 1,
+        "Fire": 1,
+        "Water": 1,
+        "Electric": 0.5,
+        "Grass": 1,
+        "Ice": 1,
+        "Fighting": 1,
+        "Poison": 1,
+        "Ground": 2,
+        "Flying": 0.5,
+        "Psychic": 1,
+        "Bug": 1,
+        "Rock": 1,
+        "Ghost": 1,
+        "Dragon": 1,
+        "Dark": 1,
+        "Steel": 0.5,
+        "Fairy": 1
+      }
+    }
+  },
+  {
+    "ID": "#0901",
+    "Name": "Ursaluna",
+    "Level": 1,
+    "Exp": 0,
+    "types": [
+      "Ground",
+      "Normal"
+    ],
+    "URL": "/pokedex/ursaluna",
+    "Poke-Information": {
+      "HP": 113,
+      "ATK": 70,
+      "DEF": 120,
+      "Sp.Atk": 135,
+      "Sp.Def": 65,
+      "Speed": 52,
+      "Type-Defenses": {
+        "Normal": 1,
+        "Fire": 1,
+        "Water": 2,
+        "Electric": 0,
+        "Grass": 2,
+        "Ice": 2,
+        "Fighting": 2,
+        "Poison": 0.5,
+        "Ground": 1,
+        "Flying": 1,
+        "Psychic": 1,
+        "Bug": 1,
+        "Rock": 0.5,
+        "Ghost": 0,
+        "Dragon": 1,
+        "Dark": 1,
+        "Steel": 1,
+        "Fairy": 1
+      }
+    }
+  },
+  {
+    "ID": "#0646",
+    "Name": "Kyurem",
+    "Level": 1,
+    "Exp": 0,
+    "types": [
+      "Dragon",
+      "Ice"
+    ],
+    "URL": "/pokedex/kyurem",
+    "Poke-Information": {
+      "HP": 125,
+      "ATK": 170,
+      "DEF": 100,
+      "Sp.Atk": 120,
+      "Sp.Def": 90,
+      "Speed": 95,
+      "Type-Defenses": {
+        "Normal": 1,
+        "Fire": 1,
+        "Water": 0.5,
+        "Electric": 0.5,
+        "Grass": 0.5,
+        "Ice": 1,
+        "Fighting": 2,
+        "Poison": 1,
+        "Ground": 1,
+        "Flying": 1,
+        "Psychic": 1,
+        "Bug": 1,
+        "Rock": 2,
+        "Ghost": 1,
+        "Dragon": 2,
+        "Dark": 1,
+        "Steel": 2,
+        "Fairy": 2
+      }
+    }
+  }
+]

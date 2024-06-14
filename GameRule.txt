@@ -1,0 +1,19 @@
+The game will use commands containing the prefix @ to interact with the game
+In beginning you need to set user name! 
+| Enter your user name: Phuc
+Then the client will ask to choose 1 of 3 pokemons (Bulbasaur, Charmander, Squirtle)
+| Enter 1, 2, or 3 to get the corresponding begining pokemon 
+Main menu option:
+Use @bag to show your pokedex!!!
+Use @catch to get RANDOM 10 pokemons from pokedex (This acts like a gacha pokemon)
+Use @search + #idPokemon to search the data from pokedex if you do not know this pokemon before.
+Use @quit to out the server 
+Use @list to list all the user in this server, then from this you can easy to invite user into a battle.
+Use @invite + user_name to invite user into a battle
+Use @accept + yes/no to accept the invitation then get into the battle
+Battle-option: 
+Use @pick #id1 #id2 #id3 this action will generate your order pokemons the first pokemon in battle will be #id1,...
+After picked, you can use @play to start the game, and you will waiting until your opponent @play too.
+Use @attack to attack opponent's pokemon (random choose between Normal Attack and Special Attack)
+Use @switch to switch pokemon in the battle. If you switch the pokemon your turn will be end
+Use @surrender to surrender to your opponent

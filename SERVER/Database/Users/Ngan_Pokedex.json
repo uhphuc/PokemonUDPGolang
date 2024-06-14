@@ -1,0 +1,40 @@
+[
+  {
+    "ID": "#0004",
+    "Name": "Charmander",
+    "Level": 1,
+    "Exp": 0,
+    "types": [
+      "Fire"
+    ],
+    "URL": "/pokedex/charmander",
+    "Poke-Information": {
+      "HP": 39,
+      "ATK": 52,
+      "DEF": 43,
+      "Sp.Atk": 60,
+      "Sp.Def": 50,
+      "Speed": 65,
+      "Type-Defenses": {
+        "Normal": 1,
+        "Fire": 0.5,
+        "Water": 2,
+        "Electric": 1,
+        "Grass": 0.5,
+        "Ice": 0.5,
+        "Fighting": 1,
+        "Poison": 1,
+        "Ground": 2,
+        "Flying": 1,
+        "Psychic": 1,
+        "Bug": 0.5,
+        "Rock": 2,
+        "Ghost": 1,
+        "Dragon": 1,
+        "Dark": 1,
+        "Steel": 0.5,
+        "Fairy": 0.5
+      }
+    }
+  }
+]

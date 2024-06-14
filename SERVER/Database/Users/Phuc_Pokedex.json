@@ -1,0 +1,428 @@
+[
+  {
+    "ID": "#0001",
+    "Name": "Bulbasaur",
+    "Level": 1,
+    "Exp": 0,
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "URL": "/pokedex/bulbasaur",
+    "Poke-Information": {
+      "HP": 45,
+      "ATK": 49,
+      "DEF": 49,
+      "Sp.Atk": 65,
+      "Sp.Def": 65,
+      "Speed": 45,
+      "Type-Defenses": {
+        "Normal": 1,
+        "Fire": 2,
+        "Water": 0.5,
+        "Electric": 0.5,
+        "Grass": 0.25,
+        "Ice": 2,
+        "Fighting": 0.5,
+        "Poison": 1,
+        "Ground": 1,
+        "Flying": 2,
+        "Psychic": 2,
+        "Bug": 1,
+        "Rock": 1,
+        "Ghost": 1,
+        "Dragon": 1,
+        "Dark": 1,
+        "Steel": 1,
+        "Fairy": 0.5
+      }
+    }
+  },
+  {
+    "ID": "#0989",
+    "Name": "Sandy Shocks",
+    "Level": 1,
+    "Exp": 0,
+    "types": [
+      "Electric",
+      "Ground"
+    ],
+    "URL": "/pokedex/sandy-shocks",
+    "Poke-Information": {
+      "HP": 85,
+      "ATK": 81,
+      "DEF": 97,
+      "Sp.Atk": 121,
+      "Sp.Def": 85,
+      "Speed": 101,
+      "Type-Defenses": {
+        "Normal": 1,
+        "Fire": 1,
+        "Water": 2,
+        "Electric": 0,
+        "Grass": 2,
+        "Ice": 2,
+        "Fighting": 1,
+        "Poison": 0.5,
+        "Ground": 2,
+        "Flying": 0.5,
+        "Psychic": 1,
+        "Bug": 1,
+        "Rock": 0.5,
+        "Ghost": 1,
+        "Dragon": 1,
+        "Dark": 1,
+        "Steel": 0.5,
+        "Fairy": 1
+      }
+    }
+  },
+  {
+    "ID": "#0486",
+    "Name": "Regigigas",
+    "Level": 1,
+    "Exp": 0,
+    "types": [
+      "Normal"
+    ],
+    "URL": "/pokedex/regigigas",
+    "Poke-Information": {
+      "HP": 110,
+      "ATK": 160,
+      "DEF": 110,
+      "Sp.Atk": 80,
+      "Sp.Def": 110,
+      "Speed": 100,
+      "Type-Defenses": {
+        "Normal": 1,
+        "Fire": 1,
+        "Water": 1,
+        "Electric": 1,
+        "Grass": 1,
+        "Ice": 1,
+        "Fighting": 2,
+        "Poison": 1,
+        "Ground": 1,
+        "Flying": 1,
+        "Psychic": 1,
+        "Bug": 1,
+        "Rock": 1,
+        "Ghost": 0,
+        "Dragon": 1,
+        "Dark": 1,
+        "Steel": 1,
+        "Fairy": 1
+      }
+    }
+  },
+  {
+    "ID": "#0430",
+    "Name": "Honchkrow",
+    "Level": 1,
+    "Exp": 0,
+    "types": [
+      "Dark",
+      "Flying"
+    ],
+    "URL": "/pokedex/honchkrow",
+    "Poke-Information": {
+      "HP": 100,
+      "ATK": 125,
+      "DEF": 52,
+      "Sp.Atk": 105,
+      "Sp.Def": 52,
+      "Speed": 71,
+      "Type-Defenses": {
+        "Normal": 1,
+        "Fire": 1,
+        "Water": 1,
+        "Electric": 2,
+        "Grass": 0.5,
+        "Ice": 2,
+        "Fighting": 1,
+        "Poison": 1,
+        "Ground": 0,
+        "Flying": 1,
+        "Psychic": 0,
+        "Bug": 1,
+        "Rock": 2,
+        "Ghost": 0.5,
+        "Dragon": 1,
+        "Dark": 0.5,
+        "Steel": 1,
+        "Fairy": 2
+      }
+    }
+  },
+  {
+    "ID": "#0023",
+    "Name": "Ekans",
+    "Level": 1,
+    "Exp": 0,
+    "types": [
+      "Poison"
+    ],
+    "URL": "/pokedex/ekans",
+    "Poke-Information": {
+      "HP": 35,
+      "ATK": 60,
+      "DEF": 44,
+      "Sp.Atk": 40,
+      "Sp.Def": 54,
+      "Speed": 55,
+      "Type-Defenses": {
+        "Normal": 1,
+        "Fire": 1,
+        "Water": 1,
+        "Electric": 1,
+        "Grass": 0.5,
+        "Ice": 1,
+        "Fighting": 0.5,
+        "Poison": 0.5,
+        "Ground": 2,
+        "Flying": 1,
+        "Psychic": 2,
+        "Bug": 0.5,
+        "Rock": 1,
+        "Ghost": 1,
+        "Dragon": 1,
+        "Dark": 1,
+        "Steel": 1,
+        "Fairy": 0.5
+      }
+    }
+  },
+  {
+    "ID": "#0365",
+    "Name": "Walrein",
+    "Level": 1,
+    "Exp": 0,
+    "types": [
+      "Ice",
+      "Water"
+    ],
+    "URL": "/pokedex/walrein",
+    "Poke-Information": {
+      "HP": 110,
+      "ATK": 80,
+      "DEF": 90,
+      "Sp.Atk": 95,
+      "Sp.Def": 90,
+      "Speed": 65,
+      "Type-Defenses": {
+        "Normal": 1,
+        "Fire": 1,
+        "Water": 0.5,
+        "Electric": 2,
+        "Grass": 2,
+        "Ice": 0.25,
+        "Fighting": 2,
+        "Poison": 1,
+        "Ground": 1,
+        "Flying": 1,
+        "Psychic": 1,
+        "Bug": 1,
+        "Rock": 2,
+        "Ghost": 1,
+        "Dragon": 1,
+        "Dark": 1,
+        "Steel": 1,
+        "Fairy": 1
+      }
+    }
+  },
+  {
+    "ID": "#0308",
+    "Name": "Medicham",
+    "Level": 1,
+    "Exp": 0,
+    "types": [
+      "Fighting",
+      "Psychic"
+    ],
+    "URL": "/pokedex/medicham",
+    "Poke-Information": {
+      "HP": 60,
+      "ATK": 100,
+      "DEF": 85,
+      "Sp.Atk": 80,
+      "Sp.Def": 85,
+      "Speed": 100,
+      "Type-Defenses": {
+        "Normal": 1,
+        "Fire": 1,
+        "Water": 1,
+        "Electric": 1,
+        "Grass": 1,
+        "Ice": 1,
+        "Fighting": 0.5,
+        "Poison": 1,
+        "Ground": 1,
+        "Flying": 2,
+        "Psychic": 1,
+        "Bug": 1,
+        "Rock": 0.5,
+        "Ghost": 2,
+        "Dragon": 1,
+        "Dark": 1,
+        "Steel": 1,
+        "Fairy": 2
+      }
+    }
+  },
+  {
+    "ID": "#0396",
+    "Name": "Starly",
+    "Level": 1,
+    "Exp": 0,
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "URL": "/pokedex/starly",
+    "Poke-Information": {
+      "HP": 40,
+      "ATK": 55,
+      "DEF": 30,
+      "Sp.Atk": 30,
+      "Sp.Def": 30,
+      "Speed": 60,
+      "Type-Defenses": {
+        "Normal": 1,
+        "Fire": 1,
+        "Water": 1,
+        "Electric": 2,
+        "Grass": 0.5,
+        "Ice": 2,
+        "Fighting": 1,
+        "Poison": 1,
+        "Ground": 0,
+        "Flying": 1,
+        "Psychic": 1,
+        "Bug": 0.5,
+        "Rock": 2,
+        "Ghost": 0,
+        "Dragon": 1,
+        "Dark": 1,
+        "Steel": 1,
+        "Fairy": 1
+      }
+    }
+  },
+  {
+    "ID": "#0788",
+    "Name": "Tapu Fini",
+    "Level": 1,
+    "Exp": 0,
+    "types": [
+      "Water",
+      "Fairy"
+    ],
+    "URL": "/pokedex/tapu-fini",
+    "Poke-Information": {
+      "HP": 70,
+      "ATK": 75,
+      "DEF": 115,
+      "Sp.Atk": 95,
+      "Sp.Def": 130,
+      "Speed": 85,
+      "Type-Defenses": {
+        "Normal": 1,
+        "Fire": 0.5,
+        "Water": 0.5,
+        "Electric": 2,
+        "Grass": 2,
+        "Ice": 0.5,
+        "Fighting": 0.5,
+        "Poison": 2,
+        "Ground": 1,
+        "Flying": 1,
+        "Psychic": 1,
+        "Bug": 0.5,
+        "Rock": 1,
+        "Ghost": 1,
+        "Dragon": 0,
+        "Dark": 0.5,
+        "Steel": 1,
+        "Fairy": 1
+      }
+    }
+  },
+  {
+    "ID": "#0729",
+    "Name": "Brionne",
+    "Level": 1,
+    "Exp": 0,
+    "types": [
+      "Water"
+    ],
+    "URL": "/pokedex/brionne",
+    "Poke-Information": {
+      "HP": 60,
+      "ATK": 69,
+      "DEF": 69,
+      "Sp.Atk": 91,
+      "Sp.Def": 81,
+      "Speed": 50,
+      "Type-Defenses": {
+        "Normal": 1,
+        "Fire": 0.5,
+        "Water": 0.5,
+        "Electric": 2,
+        "Grass": 2,
+        "Ice": 0.5,
+        "Fighting": 1,
+        "Poison": 1,
+        "Ground": 1,
+        "Flying": 1,
+        "Psychic": 1,
+        "Bug": 1,
+        "Rock": 1,
+        "Ghost": 1,
+        "Dragon": 1,
+        "Dark": 1,
+        "Steel": 0.5,
+        "Fairy": 1
+      }
+    }
+  },
+  {
+    "ID": "#0702",
+    "Name": "Dedenne",
+    "Level": 1,
+    "Exp": 0,
+    "types": [
+      "Electric",
+      "Fairy"
+    ],
+    "URL": "/pokedex/dedenne",
+    "Poke-Information": {
+      "HP": 67,
+      "ATK": 58,
+      "DEF": 57,
+      "Sp.Atk": 81,
+      "Sp.Def": 67,
+      "Speed": 101,
+      "Type-Defenses": {
+        "Normal": 1,
+        "Fire": 1,
+        "Water": 1,
+        "Electric": 0.5,
+        "Grass": 1,
+        "Ice": 1,
+        "Fighting": 0.5,
+        "Poison": 2,
+        "Ground": 2,
+        "Flying": 0.5,
+        "Psychic": 1,
+        "Bug": 0.5,
+        "Rock": 1,
+        "Ghost": 1,
+        "Dragon": 0,
+        "Dark": 0.5,
+        "Steel": 1,
+        "Fairy": 1
+      }
+    }
+  }
+]
